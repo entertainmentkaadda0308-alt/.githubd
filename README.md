@@ -1,2 +1,2 @@
 # .githubd
-Ronaldo
+Ronaldo https://coredatabase.in/
